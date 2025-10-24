@@ -5,9 +5,6 @@ This repository contains the complete project for building a **Generative AI Sys
 
 ---
 
-
----
-
 ## Features
 - Generative AI model capable of [text-to-image / text-to-video / other specific tasks]  
 - Preprocessing and data pipeline for handling datasets efficiently  
