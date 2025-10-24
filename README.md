@@ -5,21 +5,6 @@ This repository contains the complete project for building a **Generative AI Sys
 
 ---
 
-## Table of Contents
-- [Project Structure](#project-structure)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Datasets](#datasets)
-- [Model Training](#model-training)
-- [Evaluation](#evaluation)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
-## Project Structure
 
 ---
 
@@ -40,8 +25,4 @@ This repository contains the complete project for building a **Generative AI Sys
 
 ---
 
-## Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/nhoiyee/Building-a-Generative-AI-System.git
-cd Building-a-Generative-AI-System
+
